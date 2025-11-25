@@ -1,12 +1,36 @@
-- 👋 Hi, I’m  Ahmad Raza
-- 👀  I’m interested in Data Science and AI.
-- 🌱  I’m currently learning Data Science and AI.
-- 💞️ I’m looking to collaborate on innovative AI projects and data-driven solutions.
-- 📫 You can reach me at [email:ahmadrazah2@gmail.com].
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I love to travel
+# 👋 Hi, I’m Ahmad Raza
 
-<!---
-ahmadrazah2/ahmadrazah2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in **Computer Vision, Image Processing, Deep Learning, and Natural Language Processing (NLP)**.  
+🌱 I’m currently learning and working on **image desnowing, deep neural networks, and real-time object detection**.  
+💼 I’m a graduate student in **Global IT Engineering at Kyungsung University, Busan, South Korea**.  
+💞️ I’m looking to collaborate on **innovative AI projects, research papers, and data-driven solutions**.  
+🧠 I have experience with **PyTorch, OpenCV, TensorFlow/Keras, ML models, and research implementation**.  
+📫 You can reach me at **ahmadrazah2@gmail.com**.  
+😄 Pronouns: **he/him**.  
+🌍 Languages: **English, Urdu, Korean (learning), Vietnamese (basic)**.  
+⚡ Fun fact: **I love traveling, exploring new cultures, and turning research ideas into real working systems.**
+
+---
+
+### 🔧 Skills & Tools
+- **Programming:** Python, PyTorch, TensorFlow, OpenCV  
+- **AI/ML:** CNNs, Attention Mechanisms, Object Detection, Image Restoration  
+- **Tools:** Jupyter, Colab, Kaggle, Git, VS Code  
+- **Research:** Writing papers, model implementation, dataset creation, evaluation metrics  
+
+---
+
+### 📂 Current Projects
+- **Image Desnowing using Deep Learning (F-Net, MGRRN)**
+- **Heart Disease Prediction using Ensemble ML Models**
+- **Real-time Object Detection (YOLO-based)**
+
+
+---
+
+### 🌐 Connect With Me
+- ✉️ **Email:** ahmadrazah2@gmail.com  
+
+
+---
+=
