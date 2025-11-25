@@ -5,7 +5,6 @@
 💼 I’m a graduate student in **Global IT Engineering at Kyungsung University, Busan, South Korea**.  
 💞️ I’m looking to collaborate on **innovative AI projects, research papers, and data-driven solutions**.  
 🧠 I have experience with **PyTorch, OpenCV, TensorFlow/Keras, ML models, and research implementation**.  
-📫 You can reach me at **ahmadrazah2@gmail.com**.  
 😄 Pronouns: **he/him**.  
 🌍 Languages: **English, Urdu, Korean (learning), Vietnamese (basic)**.  
 ⚡ Fun fact: **I love traveling, exploring new cultures, and turning research ideas into real working systems.**
