@@ -72,5 +72,5 @@ I’m an AI engineer specializing in **Computer Vision** and **Applied AI System
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazah2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
